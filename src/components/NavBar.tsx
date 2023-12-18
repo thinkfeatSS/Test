@@ -9,8 +9,8 @@ const NavBar = () => {
         <h3 className="text-2xl font-black">CODELYTIX</h3>
       </div>
       <div className="flex flex-row gap-16 text-center">
-        <h3  className="text-2xl font-semibold">Help and support</h3>
-        <h3 className="text-2xl font-semibold">Why Codelytix</h3>
+        <h3  className="text-2xl font-bold">Help and support</h3>
+        <h3 className="text-2xl font-bold">Why Codelytix</h3>
       </div>
     </section>
     </>
