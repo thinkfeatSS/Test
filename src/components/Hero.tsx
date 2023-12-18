@@ -8,10 +8,7 @@ const Hero = () => {
       <h1 className="text-center font-bold md:text-left text-3xl leading-loose lg:text-4xl lg:leading-loose">
         <span className='bg-[#D0CBE6] rounded-full p-2'>Revolutionize</span> Your Software <span className='bg-[#D0CBE6] rounded-full p-2'>Engineering</span> Experience
       </h1>
-      <h5 className="text-center md:text-left md:text-lg lg:text-xl font-medium ">
-        Unlock the full potential of your software engineering teams with
-        Codealytix.io
-      </h5>
+      
       <div className="flex flex-col items-center md:items-start">
         <h2 className="text-center md:text-left md:text-xl md:w-80 lg:text-2xl font-semibold leading-snug">
 
